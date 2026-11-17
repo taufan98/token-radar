@@ -52,4 +52,4 @@ Then open `http://127.0.0.1:8137/dashboard/index.html`.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=va8excfs&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)</sub>
